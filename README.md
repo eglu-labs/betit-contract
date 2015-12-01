@@ -1,1 +1,1 @@
-# betit-model
+# betit-contract
